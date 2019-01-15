@@ -8,3 +8,9 @@ h2
 	color: red;
 	font-size: 20px;
 }
+
+p
+{
+	font-style: inherit;
+	color: #0000
+}
